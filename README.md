@@ -20,7 +20,7 @@ Este é um aplicativo de marcação de consultas dentárias, desenvolvido em Kot
 
 8. **Notificações:** Sempre que um usuário solicitar uma consulta, o aplicativo exibirá uma notificação para o dentista.
    
-9. **Avaliações:** Sempre ao final da consulta o app solicita que o usuario avalie o dentista, o aplicativo exibirá a nota dada pelo usuario de 1-5 e o comentarios para o dentista (somente a nota sera exibida no perfil publicamente)
+9. **Avaliações:** Sempre ao final da consulta o app solicita que o usuario avalie o dentista, o aplicativo exibirá a nota dada pelo usuario de 1-5 e o comentarios para o dentista (somente a nota sera exibida no perfil publicamente), caso o dentista não goste do comentario e da nota ele pode pedir uma reavaliação e caso se sinta ofendido com o comentario ele pode pedir ao suporte a verificação do comentario.
 
 ## Requisitos Técnicos
 
